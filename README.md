@@ -1,4 +1,4 @@
-# fish-wifi-password
+# wifi-password
 
 Get your wifi's password in Fish Shell
 
@@ -24,5 +24,5 @@ $ wifi-password
 
 ## License
 
-[MIT](https://github.com/grvcoelho/fish-wifi-password/blob/master/LICENSE) &copy; 2016
+[MIT](https://github.com/grvcoelho/wifi-password/blob/master/LICENSE) &copy; 2016
 
